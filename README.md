@@ -11,3 +11,8 @@ Updated once a month with new colors, themes and maybe a leaderboard or endless 
 - Marine blue
 - Natural green
 - Complex hue
+
+# Supporter themes
+- Vibrant chrome
+- Noir
+- Lemon and Lime fusion
